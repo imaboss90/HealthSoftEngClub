@@ -47,7 +47,7 @@ This is a prototype, and will need additional refinements, information, and orga
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Isafarii/Health-Club-Management-System-Prototype.git
+   git clone https://github.com/imaboss90/HealthSoftEngClub.git
 2. Open the project in your preferred IDE.
 
 3. Customize and extend the code as needed based on project requirements.
